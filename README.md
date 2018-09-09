@@ -1,2 +1,3 @@
 # SupperZhihu
-Laravel 实战开发知乎
+Laravel开发知乎
+使用VUE框架
